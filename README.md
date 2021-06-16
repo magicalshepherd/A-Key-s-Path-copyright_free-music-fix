@@ -3,7 +3,7 @@
 
 # A Key(s) Path
 **- By Geegaz -**
-(Music Scene to AutoLoad actual music, nothing else: magicalshepherd)
+(Copyright free music: Nightingale Lofi; AutoLoad singleton music scene: magicalshepherd)
 
 <img src="https://img.itch.zone/aW1nLzM4NjM5MTEuZ2lm/original/bm3fwN.gif">
 
@@ -42,4 +42,4 @@ All design, code and graphics by me (fonts not included).
 - **Big font:** [Joystix Font](https://www.1001fonts.com/joystix-font.html) by [Raymond Larabie](https://www.1001fonts.com/users/typodermic/)
 - **Small font:** [BitPotion Font Family](https://www.1001fonts.com/bitpotion-font.html) by [JoebRogers](https://www.1001fonts.com/users/JoebRogers/)
 - **SFX:** [Platformer SFX](https://outspacer.itch.io/platformer-sfx) by [David Stearns](https://outspacer.itch.io/)
-- **Music:** [Bunker](https://freemusicarchive.org/music/Metre/Circuit_1731/Bunker) by [Metre](https://freemusicarchive.org/music/Metre)
+- **Music:** [No Need To End Lofi](https://soundcloud.com/nightingale_lofi/no-need-to-end-non-copyright-lofi-dmca-free-sleep-study-beat) by [Nightingale Lofi](https://soundcloud.com/nightingale_lofi)
