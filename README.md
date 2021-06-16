@@ -3,7 +3,9 @@
 
 # A Key(s) Path
 **- By [Geegaz](https://github.com/geegaz) -**
+
 **-CC BY-SA 4.0; GPLv3 compatible copyright-free music: by [Nightingale Lofi](https://soundcloud.com/nightingale_lofi) -**
+
 **-AutoLoad singleton music scene: [magicalshepherd](https://github.com/magicalshepherd) -**
 
 <img src="https://img.itch.zone/aW1nLzM4NjM5MTEuZ2lm/original/bm3fwN.gif">
