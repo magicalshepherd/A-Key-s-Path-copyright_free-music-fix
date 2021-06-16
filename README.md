@@ -3,7 +3,7 @@
 
 # A Key(s) Path
 **- By Geegaz -**
-(Copyright free music: Nightingale Lofi; AutoLoad singleton music scene: magicalshepherd)
+( GPLv3 compatible copyright-free music: by Nightingale Lofi; AutoLoad singleton music scene: [magicalshepherd](https://github.com/magicalshepherd) )
 
 <img src="https://img.itch.zone/aW1nLzM4NjM5MTEuZ2lm/original/bm3fwN.gif">
 
@@ -36,8 +36,8 @@ The game plays with a mouse and keyboard.
 
 ### Credits:
 
-Made with Godot 3.2.1.<br>
-All design, code and graphics by me (fonts not included).
+Made with Godot 3.2.1.<br> (fixed in Godot 3.2.2.)
+All design, code and graphics by [geegaz](https://github.com/geegaz) (fonts not included).
 
 - **Big font:** [Joystix Font](https://www.1001fonts.com/joystix-font.html) by [Raymond Larabie](https://www.1001fonts.com/users/typodermic/)
 - **Small font:** [BitPotion Font Family](https://www.1001fonts.com/bitpotion-font.html) by [JoebRogers](https://www.1001fonts.com/users/JoebRogers/)
